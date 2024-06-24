@@ -5,8 +5,8 @@
 - 👯 Seguindo para a áre de back-end ou full-stack.
 <div>
   <a href="https://github.com/cayres0802"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cayres0802&show_icons=true&theme=moltack&include_all_comits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayres0802&layout=compact&langs_count=16&theme=moltack"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cayres0802&show_icons=true&theme=rose&include_all_comits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayres0802&layout=compact&langs_count=16&theme=rose"/>
 </div>  
 
 <div style="display: inline_block"><br>
@@ -17,6 +17,7 @@
   <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Clara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Clara-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="right" alt="Clara-gif" height="100" width="100" src="https://media.discordapp.net/attachments/1254591841496727685/1254591874354643026/download.gif?ex=667a0d3c&is=6678bbbc&hm=3a1a746392d3f875a0ec192611356acf80fd393a7bc5010d23a7136f098f558e&=&width=618&height=618">
 </div>
  
