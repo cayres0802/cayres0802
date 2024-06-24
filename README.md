@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudante de Engenharia de Software.
 - 🌱 Estou aprendendo Python, APIs, CRUD, MySQL, CSS, JavaScript e HTML.
-- 👯 Seguindo para a áre de back-end ou full-stack.
+- 👯 Seguindo para a área de full-stack.
 <div>
   <a href="https://github.com/cayres0802"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cayres0802&show_icons=true&theme=rose&include_all_comits=true&count_private=true"/>
