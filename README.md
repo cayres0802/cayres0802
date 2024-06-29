@@ -1,8 +1,9 @@
-## Oiii!! Eu sou a Maria Clara(❁´◡`❁)
+## Heyyy!! I'm Maria Clara(❁´◡`❁)
 
-- 🔭 Sou estudante de Engenharia de Software.
-- 🌱 Estou aprendendo Python, APIs, CRUD, MySQL, CSS, JavaScript e HTML.
-- 👯 Seguindo para a área de full-stack.
+- 🔭 I'm a Software Engineering student.
+- 🌱 I'm learning Python, APIs, CRUD, MySQL, CSS, JavaScript and HTML.
+- 👯 Moving on to the full-stack area.
+- 
 <div>
   <a href="https://github.com/cayres0802"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cayres0802&show_icons=true&theme=rose&include_all_comits=true&count_private=true"/>
